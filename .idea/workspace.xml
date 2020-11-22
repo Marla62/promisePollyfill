@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23e43214-91b6-428c-8879-2f5df64d6aeb" name="Default Changelist" comment="" />
+    <list default="true" id="23e43214-91b6-428c-8879-2f5df64d6aeb" name="Default Changelist" comment="通过回调和控制参数个数的方式解决异步问题">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/age.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/name.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,13 +20,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kcnUljGbyWarauUmx9CxmYHx1H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
@@ -52,14 +63,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606008766075</updated>
-      <workItem from="1606008768266" duration="5950000" />
+      <workItem from="1606008768266" duration="6316000" />
     </task>
+    <task id="LOCAL-00001" summary="函数柯里化">
+      <created>1606015669772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606015669772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="函数柯里化" />
+    <MESSAGE value="通过回调和控制参数个数的方式解决异步问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="通过回调和控制参数个数的方式解决异步问题" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="575" y="355" key="Github.ShareDialog" timestamp="1606015485641">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="575" y="355" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1606015485641" />
+    <state x="496" y="69" key="Github.UntrackedFilesDialog" timestamp="1606015608597">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="496" y="69" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1606015608597" />
     <state width="1419" height="240" key="GridCell.Tab.0.bottom" timestamp="1606011734183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -76,5 +108,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606011734183" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606015631292">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606015631292" />
+    <state x="520" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606015645289">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="520" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1606015645289" />
   </component>
 </project>
